@@ -13,7 +13,7 @@ I'm Alfredo Zhu, undergraduate of Telecommunications and Electronic Engineering.
 
   - Autonomous System development for MIT-designed RACECAR(Rapid Autonomous Complex Environment Competing Ackermann steeRing) using ROS, OpenCV and multiple sensors.
   - 4 digit number calculator(addition, substraction, multiplication and division) based on visual logic circuits editing on FPGA Altera Cyclone III.
-  - Figure changing on computer screen using UART and VGA on FPGA Altera Cyclone IV, programmed on VHDL.
+  - Figure changing on computer screen using UART and VGA on FPGA Altera Cyclone IV, programmed in VHDL.
   - CAN protocol communication between an Arduino UNO, STM32 Nucleo L496ZG-P and Jetson AGX Xavier.  
   - Door lock security System on a Raspberry Pi4 using multiple sensors and facial recognition. 
 
@@ -22,4 +22,4 @@ I'm Alfredo Zhu, undergraduate of Telecommunications and Electronic Engineering.
 - Convolutional Neural Networks
 - Web service
 - Embedded Systems
-- C Programming Language
+- Signal Processing
